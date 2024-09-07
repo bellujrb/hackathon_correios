@@ -5,11 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🌐 Introduction
+
 Copilot Inteligente para Manuais e Procedimentos dos Correios, utilizando Retrieval-Augmented Generation (RAG) integrado com manuais internos, normas de compliance, governança, e um sistema de aprendizado contínuo. A solução visa otimizar o acesso à informação e melhorar a precisão e agilidade no atendimento, capacitando os funcionários dos Correios a resolver questões complexas de forma rápida e eficiente, com base em fontes confiáveis e atualizadas.
-
-## Mocks in Web
-
-Due to time constraints, some features are mocked on the website, but the backend is fully functional and you can test it yourself via Swagger.
 
 ---
 
@@ -76,7 +73,7 @@ hackathon_correios
 ```
 ---
 
-#### `hackathon_btg`
+#### `hackathon_correios`
 
 - `front-end`
     - Frontend Application
@@ -87,17 +84,17 @@ hackathon_correios
 
 ---
 
-## 🛠 Tech Stack Mobile
+## 🛠 Tech Stack Web
 
-### Design Patterns (Mobile)
+### Design Patterns (Web)
 - Singleton
 
-### External Packages (Mobile)
+### External Packages (Web)
 - Flutter Modular
 - HTTP
 - Logger
 
-### Architecture (Mobile)
+### Architecture (Web)
 - Modular
 
 ---
